@@ -11,21 +11,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://127.0.0.1:12345/4d2ea443295a44df93fc2cb4b42bdf6b.ipa</string>
+					<string>http://127.0.0.1:12345/394f109a9e484b2aae474977675e3605.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.herocraft.evy</string>
+				<string>com.GuntriggerStudios.Bloater</string>
 				<key>bundle-version</key>
-				<string>2.21</string>
+				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Marble Duel</string>
+				<string>Bloater</string>
 				<key>title</key>
-				<string>Marble Duel</string>
+				<string>Bloater</string>
 			</dict>
 		</dict>
 	</array>
