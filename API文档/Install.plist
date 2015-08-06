@@ -17,15 +17,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.GuntriggerStudios.Bloater</string>
+				<string>com.ygj.new</string>
 				<key>bundle-version</key>
 				<string>1.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
-				<string>Bloater</string>
+				<string>合金弹头</string>
 				<key>title</key>
-				<string>Bloater</string>
+				<string>合金弹头</string>
 			</dict>
 		</dict>
 	</array>
